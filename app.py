@@ -5,4 +5,5 @@ import numpy as np
 
 st.title('Drill App')
 
-st.sidebar('Drill App v1')
+with st.sidebar:
+    st.write('Drill App v1')
