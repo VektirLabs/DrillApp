@@ -2,8 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-
-st.title('Drill App')
-
 with st.sidebar:
-    st.write('Drill App v1')
+    st.write('Home')
+
+st.title('Vektir Labs - Home')
